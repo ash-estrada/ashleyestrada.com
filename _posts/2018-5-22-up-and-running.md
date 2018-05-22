@@ -2,10 +2,7 @@
 layout: post
 title: I'm up and running!
 published: true
----
----
-layout: post
-title: I'm up and running!
+date: 2018-05-22 12:00:00
 ---
 
 On using [this guide](https://github.com/barryclark/jekyll-now) by Barry Clark to throw this blog together.
