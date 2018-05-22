@@ -1,10 +1,8 @@
 ---
-published: false
----
----
 layout: post
 title: Courses, Classes, and Front Matter
 tags: COP2002 complete-web-dev-rob-percival machine-learning-a-z python-django-full-stack django-angularjs-for-a-powerful-web-app
+published: true
 ---
 
 [Sticky note to myself on *front matter variables* for Jekyll](https://jekyllrb.com/docs/frontmatter/) and [YAML basic components](https://en.wikipedia.org/wiki/YAML#Basic_components)
