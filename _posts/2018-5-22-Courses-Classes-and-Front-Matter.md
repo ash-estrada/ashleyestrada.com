@@ -2,6 +2,8 @@
 published: false
 ---
 ---
+layout: post
+title: Courses, Classes, and Front Matter
 tags: COP2002 complete-web-dev-rob-percival machine-learning-a-z python-django-full-stack django-angularjs-for-a-powerful-web-app
 ---
 
