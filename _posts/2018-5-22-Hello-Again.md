@@ -3,9 +3,7 @@ layout: post
 title: I'm up and running!
 published: true
 ---
-## Setup
-
-### I used [this guide](https://github.com/barryclark/jekyll-now)***** by Barry Clark to throw together this blog
+I used [this guide](https://github.com/barryclark/jekyll-now) by Barry Clark to throw this blog together.
 
 I had the intention of the site things from the ground up, but at the same time I wanted a place to post updates on projects I'm working on and things I'm learning (which includes how to do things like build a website from the ground up and use Git and navigate GitHub). I think what I've done is an alright compromise.
 
