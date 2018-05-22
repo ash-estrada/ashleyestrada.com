@@ -2,7 +2,7 @@
 published: false
 ---
 ---
-tags: COP2002,complete-web-dev-rob-percival,machine-learning-a-z,python-django-full-stack,django-angularjs-for-a-powerful-web-app
+tags: COP2002 complete-web-dev-rob-percival machine-learning-a-z python-django-full-stack django-angularjs-for-a-powerful-web-app
 ---
 
 [Sticky note to myself on *front matter variables* for Jekyll](https://jekyllrb.com/docs/frontmatter/) and [YAML basic components](https://en.wikipedia.org/wiki/YAML#Basic_components)
